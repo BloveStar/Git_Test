@@ -6,6 +6,6 @@ public class Main {
             System.out.println("hahah");
         }
 
-        System.out.println("this is new branch!");
+        System.out.println("This is master!");
     }
 }
